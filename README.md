@@ -45,10 +45,14 @@ $conn=new mysqli($servesname,$username,$password,$dbname);
 
 The  motors numbers are then recorded in the database.
 
+
+![Image](https://user-images.githubusercontent.com/85842623/123630041-b6f39500-d81d-11eb-99e2-c735af2acd50.jpeg)
+
 ![W](https://user-images.githubusercontent.com/85842623/123629611-23ba5f80-d81d-11eb-8e5e-fab617e9fc1b.jpeg)
 
 ## php1.php
 
 php code to print engine history from database
 
+![Image1 ](https://user-images.githubusercontent.com/85842623/123630037-b65afe80-d81d-11eb-9b52-2191358c7b6d.jpeg)
 
