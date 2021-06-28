@@ -1,0 +1,41 @@
+.slidecontainer{
+    width: 60%;
+}
+.slider{
+    -webkit-appearance: none;
+    width: 60%;
+    height: 10px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    outline: none;
+    opacity: 0,7;
+    -webkit-transition: .2s;
+    transition: opacity 2.s;
+}
+.slider:hover{
+    opacity: 1;
+}
+.slider::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    appearance: none;
+    width: 23px;
+    height: 24px;
+    background: url('contrasticon.png');
+    background-color: black;
+    cursor: pointer;
+}
+.slider::-moz-range-thumb{
+    width: 23px;
+    height: 24px;
+    border: 0;
+    background: url('contrasticon.png');
+    background-color: black;
+    cursor: pointer;
+}
+#left{
+    padding-top: 220px;
+    padding: 300px;
+
+}
+
+
